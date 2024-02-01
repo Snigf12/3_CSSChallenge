@@ -7,4 +7,4 @@ You  must use a HTML form for the "Enter Course Grades" section, and a HTML Tabl
     <img src="Readme - TASK.jpg">
 </p>
 
-[Page published](https://snigf12.github.io/WillUpdateItlater/) using the third folder of [code_learning repo](https://github.com/Snigf12/code_learning) using GitHub Pages.
+[Page published](https://snigf12.github.io/3_CSSChallenge/) using the third folder of [code_learning repo](https://github.com/Snigf12/code_learning) using GitHub Pages.
